@@ -22,8 +22,14 @@ Go to the EC2 dashboard and navigate to the “Load Balancers” section. Click 
 and Target group
 ![image](https://github.com/user-attachments/assets/ef3cd7f7-f2f3-49c8-943d-3ac51064db0f)
 # Ec2 instances connect pdf as a link :
-    (https://drive.google.com/file/d/15Omr_W8kcFVJnPQuc1HkvKZwhjz75aiN/view?usp=drivesdk)
+
+ https://drive.google.com/file/d/15Omr_W8kcFVJnPQuc1HkvKZwhjz75aiN/view?usp=drivesdk
 result link :
+
 http://project1-432817283.us-east-1.elb.amazonaws.com/
 
-Result Images
+# Result Images :
+![Screenshot 2024-09-09 161254](https://github.com/user-attachments/assets/e86ecb9d-d525-4af0-a6fe-f22f7875ed58)
+
+![Screenshot 2024-09-09 161315](https://github.com/user-attachments/assets/b466a13f-299f-40f4-b24c-acf4c3b8490d)
+
