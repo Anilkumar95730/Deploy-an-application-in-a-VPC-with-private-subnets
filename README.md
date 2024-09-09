@@ -24,7 +24,7 @@ and Target group
 # Ec2 instances connect pdf as a link :
 
  https://drive.google.com/file/d/15Omr_W8kcFVJnPQuc1HkvKZwhjz75aiN/view?usp=drivesdk
-result link :
+# result link :
 
 http://project1-432817283.us-east-1.elb.amazonaws.com/
 
